@@ -8,7 +8,7 @@ This is a solution to https://www.frontendmentor.io/challenges/nft-preview-card-
 - Live Site URL:https://madmohammed22.github.io/NFT-preview-card-component/
 
 # My process
-- Semantic HTML5 markup
+- Semantic HTML5, CSS markup
 - Flexbox
 
 # Author
